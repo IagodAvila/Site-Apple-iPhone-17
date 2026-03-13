@@ -9,7 +9,7 @@ O objetivo foi praticar boas práticas de desenvolvimento front-end moderno e co
 🚀 Demo
 
 🌐 Acesse o projeto:
-https://seu-link-do-projeto.vercel.app
+https://iagodavila.github.io/Site-Apple-iPhone-17/
 
 🖼 Preview
 <img src="preview.png" alt="iPhone 17 Pro Website Preview" width="100%">
@@ -75,7 +75,6 @@ Execute o projeto:
 
 npm run dev
 
-🌐 Demo: https://iagodavila.github.io/Site-Apple-iPhone-17/
 
 🎯 Objetivo do projeto
 
