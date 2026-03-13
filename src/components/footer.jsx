@@ -50,7 +50,9 @@ function Footer() {
             </p>
             <div className="flex gap-6 text-sm text-grey-400">
               {buttonsLinks.map((link, index) => (
-                <a key={index} className="hover:text-white cursor-pointer">{link}</a>
+                <a key={index} className="hover:text-white cursor-pointer">
+                  {link}
+                </a>
               ))}
             </div>
           </div>
