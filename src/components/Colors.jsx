@@ -10,13 +10,13 @@ function Colors() {
     {
       id: "Silver",
       name: "Titânio Natural",
-      image: import.meta.env.BASE_URL + "/img/iphone-silver.jpg",
+      image: import.meta.env.BASE_URL + "img/iphone-silver.jpg",
       colorClass: "bg-gray-300",
     },
     {
       id: "orange",
       name: "Titânio Laranja",
-      image: import.meta.env.BASE_URL + "/img/iphone-orange.jpg",
+      image: import.meta.env.BASE_URL + "img/iphone-orange.jpg",
       colorClass: "bg-orange-500",
     },
   ];
