@@ -13,7 +13,7 @@ function Highlights() {
             <div className="bg-gray-900 rounded-3xl p-8">
               <img
                 className="w-full rounded-2xl mb-4"
-                src="/img/titanium-design.jpg"
+                src= {import.meta.env.BASE_URL + "img/titanium-design.jpg"}
                 alt="iphone-titanium"
               />
               <h3 className="font-bold mb-2 text-3xl">Titânio Premium</h3>
@@ -26,7 +26,7 @@ function Highlights() {
             <div className="bg-gray-900 rounded-3xl p-8">
               <img
                 className="w-full rounded-2xl mb-4"
-                src="/img/ios-features.jpg"
+                src={import.meta.env.BASE_URL + "img/ios-2025.jpg"}
                 alt="ios-2025"
               />
               <h3 className="font-bold mb-2 text-3xl">IOS 26</h3>
@@ -43,7 +43,7 @@ function Highlights() {
             </p>
             <img
               className="w-full rounded-2xl mb-4"
-              src="/img/chip-a18-pro.jpg"
+              src={import.meta.env.BASE_URL + "img/chip-a18.jpg"}
               alt="chip-a18"
             />
             <ul className="space-y-3 text-gray-300">
